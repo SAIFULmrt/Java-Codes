@@ -1,0 +1,45 @@
+Enter 11 or 18 digit NID : 12345678901
+Person NID: 12345678901
+
+Enter 11 or 18 digit NID : 1234567890a
+com.saiful.theoryquiz4_q2.NIDHasCharacterException: Person NID: 1234567890a contains Alphabetic Characters.
+Should only contain digits.
+
+Enter 11 or 18 digit NID : 11111111111
+com.saiful.theoryquiz4_q2.InvalidNIDPatternException: Person NID: 11111111111 is Invalid
+Check for patterns.
+Does this have repeating patterns.
+
+Enter 11 or 18 digit NID : 22222222222
+com.saiful.theoryquiz4_q2.InvalidNIDPatternException: Person NID: 22222222222 is Invalid
+Check for patterns.
+Does this have repeating patterns.
+
+Enter 11 or 18 digit NID : 11111111111111111
+com.saiful.theoryquiz4_q2.InvalidNIDPatternException: Person NID: 11111111111111111 is Invalid
+Check for patterns.
+Does this have repeating patterns.
+
+Enter 11 or 18 digit NID : 2222222222222222
+com.saiful.theoryquiz4_q2.NIDLengthMismatchException: Person NID: 2222222222222222 has length 16 .
+Should be length 11 or 17.
+
+Enter 11 or 18 digit NID : 12345678
+com.saiful.theoryquiz4_q2.NIDLengthMismatchException: Person NID: 12345678 has length 8 .
+Should be length 11 or 17.
+
+Enter 11 or 18 digit NID : 01234567890
+com.saiful.theoryquiz4_q2.NIDStartsWithZeroException: Person NID: 01234567890 starts with 0 .
+Should not start with 0.
+
+Enter 11 or 18 digit NID : 1234567890123456
+com.saiful.theoryquiz4_q2.NIDLengthMismatchException: Person NID: 1234567890123456 has length 16 .
+Should be length 11 or 17.
+
+Enter 11 or 18 digit NID : 12345678901234567
+Person NID: 12345678901234567
+
+Enter 11 or 18 digit NID : 1234567890123456a
+com.saiful.theoryquiz4_q2.NIDHasCharacterException: Person NID: 1234567890123456a contains Alphabetic Characters.
+Should only contain digits.
+
