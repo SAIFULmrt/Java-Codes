@@ -18,35 +18,34 @@ Welcome to the **java-codes** repository! This repository houses a collection of
 
 The repository is organized as follows:
 
--java-codes/
--├── CSE215.16 (SAS3)/
--│ ├── src/com/saiful/
--│   ├── javacode1
--|   ├── javacode2
--│   └── ...
--├── CSE215L.16 (SAS3)/
--│ ├── src/com/saiful/
--│   ├── javacode1
--|   ├── javacode2
--│   └── ...
--├── HackerRank/
--│ ├── src/com/
--│   ├── saiful
--|     ├── javacode1
--|     ├── javacode2
--|     └── ...
--|   ├── saiufl/JavaSort/
--|     ├── javacode1
--|     ├── javacode2
--|     └── ... 
--├── HackerRank/
--│ ├── src/com/jubair
--│   ├── assignment
--|   ├── assignment2
--|   └── ...
--├── Test/
--│ ├── Lab01Github.java
--└── README.md
+java-codes/
+├── CSE215.16 (SAS3)/
+│   ├── src/com/saiful/
+│   │   ├── javacode1
+│   │   ├── javacode2
+│   │   └── ...
+├── CSE215L.16 (SAS3)/
+│   ├── src/com/saiful/
+│   │   ├── javacode1
+│   │   ├── javacode2
+│   │   └── ...
+├── HackerRank/
+│   ├── src/com/
+│   │   ├── saiful/
+│   │   │   ├── javacode1
+│   │   │   ├── javacode2
+│   │   │   └── ...
+│   │   ├── saiufl/JavaSort/
+│   │   │   ├── javacode1
+│   │   │   ├── javacode2
+│   │   │   └── ...
+│   │   ├── jubair/
+│   │   │   ├── assignment
+│   │   │   ├── assignment2
+│   │   │   └── ...
+├── Test/
+│   ├── Lab01Github.java
+└── README.md
 
 
 - `CSE215 and CSE215L/`: Contains Java programs from these university courses.
